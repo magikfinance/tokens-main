@@ -1,0 +1,86 @@
+{
+  "name": "Equilibre Token List",
+  "logoURI": "https://github.com/equilibre-finance.png",
+  "keywords": ["audited", "verified", "special tokens"],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "volatilecoin": {
+      "name": "Volatilecoin",
+      "description": "Tokens that are NOT fixed to an external asset, e.g. the US dollar"
+    }
+  },
+  "timestamp": "2022-10-04T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 2221,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x43D8814FdFB9B8854422Df13F1c66e34E4fa91fD",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+      "tags": ["stablecoin"]
+    },
+    {
+      "chainId": 2221,
+      "name": "Vara",
+      "symbol": "VARA",
+      "address": "0x38d7Dc5790c007D784C267f4a58561Caf0936C4e",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/kVO6weI.png",
+      "tags": ["volatilecoin"]
+    },
+    {
+      "chainId": 2221,
+      "name": "Wrapped KAVA",
+      "symbol": "wKAVA",
+      "address": "0x6C2A54580666D69CF904a82D8180F198C03ece67",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/oQHfzWV.png",
+      "tags": ["volatilecoin"]
+    },
+    {
+      "chainId": 2221,
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "address": "0x66Cd011aDfF20f2B4bA60cDd30099B5E09CcACd1",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png?1568947766",
+      "tags": ["stablecoin"]
+    },
+    {
+      "chainId": 2221,
+      "name": "DAI",
+      "symbol": "DAI",
+      "address": "0x9403d62811FAF985fD4e23dcfb16a643A9239BFf",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png?1636636734",
+      "tags": ["stablecoin"]
+    },
+    {
+      "chainId": 2221,
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "address": "0x7be89557B43D2A7270437976D98d017B87b0E466",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png?1548822744",
+      "tags": ["volatilecoin"]
+    },
+    {
+      "chainId": 2221,
+      "name": "fBomb",
+      "symbol": "BOMB",
+      "address": "0xB09Fff4599cE7693ce6832b50291C004c7C4bEc5",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24109/large/logo-blue.png?1646376874",
+      "tags": ["volatilecoin"]
+    }
+  ],
+  "version": {
+    "major": 4,
+    "minor": 1,
+    "patch": 0
+  }
+}
