@@ -25,6 +25,7 @@
       "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png?1548822744",
+      "liquid_staked_address": "",
       "tags": ["volatilecoin"]
     },
     {
@@ -34,6 +35,7 @@
       "address": "0xd4EA4CCA485a8814BA51b9Bb2FfD494E99b40727",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24109/large/logo-blue.png?1646376874",
+      "liquid_staked_address": "",
       "tags": ["volatilecoin"]
     }
   ],
